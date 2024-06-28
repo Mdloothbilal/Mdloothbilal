@@ -1,4 +1,4 @@
-- 👋 Hi, I’Md loot hbilal
+- 👋 Hi, IM’Md loot hbilal
 - 👀 I’m interested in ...web devloper
 - 🌱 I’m currently learning ...full stack developer and ui/ux
 - 💞️ I’m looking to collaborate on ...

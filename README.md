@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Mdloothbilal
+- 👋 Hi, I’Md loot hbilal
 - 👀 I’m interested in ...web devloper
-- 🌱 I’m currently learning ...full stack dev and ui/ux
+- 🌱 I’m currently learning ...full stack developer and ui/ux
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... @intsa i'd=its_me_bilal_06
+- 📫 How to reach me ... @intsa i'd= looth_bilal_06
 
 <!---
 Mdloothbilal/Mdloothbilal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
